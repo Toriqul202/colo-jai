@@ -1,0 +1,31 @@
+input{
+    display: block;
+    width: 100%;
+    margin: 15px 0px;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: black;
+    outline:none
+}
+input[type=submit]{
+    background-color: yellowgreen;
+    margin-top: 20px;
+}
+textarea{
+    width: 100%;
+    margin: 10px 0px;
+}
+label{
+    color:black;
+    font-size: 20px;
+    
+}
+#meta{
+   height: 50px;
+   font-size: 15px;
+   padding: 0;
+}
+#col{
+    box-shadow: 10px 5px 50px black;
+}
